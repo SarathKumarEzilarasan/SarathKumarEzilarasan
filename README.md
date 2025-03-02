@@ -13,7 +13,7 @@
   <h2>👨‍💻 Principal SDET | Quality Engineering Specialist | Performance Enthusiast</h2>
   
   <p>
-    I'm a passionate Quality Engineering professional specializing in designing and implementing comprehensive testing frameworks for both functional and non-functional testing. I drive quality initiatives through shift-left approaches and performance engineering strategies to deliver scalable, high-quality software solutions.
+    I'm an SDET with expertise in both development and quality engineering. I specialize in designing and implementing robust testing frameworks while also contributing to software development. I drive quality initiatives through shift-left approaches and performance engineering strategies to deliver scalable, high-quality software solutions.
   </p>
 </div>
 
