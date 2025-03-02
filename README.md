@@ -2,7 +2,7 @@
   <h1>👋 Hi, I'm Sarath Kumar Ezilarasan</h1>
   
   <p>
-    <a href="https://www.linkedin.com/in/your-linkedin/">
+    <a href="https://www.linkedin.com/in/sarath-kumar-ezilarasan-20a6a7112/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:sarathezil@gmail.com">
@@ -87,7 +87,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/SarathKumarEzilarasan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=radical"/>
   </a>
