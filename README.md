@@ -21,17 +21,6 @@
 
 <h2>🚀 My Tech Stack</h2>
 
-<h3>Testing & Automation</h3>
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-  <img src="https://img.shields.io/badge/REST_Assured-008FC7?style=for-the-badge&logo=java&logoColor=white" alt="REST Assured" />
-  <img src="https://img.shields.io/badge/TestNG-007396?style=for-the-badge&logo=java&logoColor=white" alt="TestNG" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="JMeter" />
-  <img src="https://img.shields.io/badge/Sitespeed.io-FF7849?style=for-the-badge&logo=javascript&logoColor=white" alt="Sitespeed.io" />
-</p>
-
 <h3>Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -43,6 +32,17 @@
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+<h3>Testing & Automation</h3>
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/REST_Assured-008FC7?style=for-the-badge&logo=java&logoColor=white" alt="REST Assured" />
+  <img src="https://img.shields.io/badge/TestNG-007396?style=for-the-badge&logo=java&logoColor=white" alt="TestNG" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="JMeter" />
+  <img src="https://img.shields.io/badge/Sitespeed.io-FF7849?style=for-the-badge&logo=javascript&logoColor=white" alt="Sitespeed.io" />
 </p>
 
 <h3>DevOps & Infrastructure</h3>
